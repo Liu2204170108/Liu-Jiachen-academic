@@ -1,77 +1,41 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Jiachen Liu
+role: Medical doctor (under-graduate)
+bio: My research interests include generating, analyzing and integrating big
+  data of various omics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Microbiome
+  - Multi-omics
+  - Obesity
+  - Osteoarthritis
+  - Transcriptomics
+  - Drug repositioning
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://twitter.com/Jiachen62288741
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=DMbyj84AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://github.com/Liu2204170108
+organizations:
+  - name: Central south University
+    url: https://en.csu.edu.cn/
+education:
+  courses:
+    - course: Medicial doctor (eight-year program)
+      institution: Central south university
+      year: ""
+email: ljch1999@csu.edu.cn
+superuser: true
 highlight_name: true
 ---
+Jiachen-Liu is a diligent researcher with extensive multi-/inter-disciplinary expertise in **biostatistics and bioinformatics methodology research, big data, transcriptomics, epigenomics, proteomics, complex traits and diseases** (especially osteoarthritis, sarcopenia, and obesity), metabolomics and metagenomics. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liu’s work is published in **15** peer-reviewed publications including journals such as ***Ageing Research Reviews, Pharmaceutics, Therapeutic Advances in Neurological Disorders,* and *Frontiers in immunology***. As of August 2022, these publications have been cited more than **212** times and his **H-index is 7** since the first article published in 2020. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Liu’s primary research interests include all those areas that are related addressing the question: What and how **genetic and environmental factors** incur higher risk of, or better protection against, complex diseases, such as sarcopenia and osteoarthritis.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Liu is also interested in **generating, analyzing and integrating big data** of various omics in vivo in humans. The purpose is to elucidate the impact of **gene expression/regulation and protein expression/modification** on the disease course in the form of **functional networks/modules/pathways** and how the knowledge gained on these molecular mechanisms in humans would translate into better **prediction/intervention/precision medicine and drug development.**

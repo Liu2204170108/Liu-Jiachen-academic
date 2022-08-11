@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    text_color_light: true
+    text_color_light: false
     image: 中南大学大学生创新创业年会学校专场-通过基于多组学数据的药物重定位发现治疗骨质疏松的新药物-刘家辰-临八1701班.jpg
     image_darken: ""
   columns: ""

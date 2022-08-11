@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: About Me
 active: true
 author: admin
 widget_id: /#my-section
